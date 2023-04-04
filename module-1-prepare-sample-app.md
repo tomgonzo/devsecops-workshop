@@ -4,7 +4,7 @@ The first step in fixing a problem is knowing there's a problem. This first step
 
 ## Step 1: Get the sample app and clone the Repo
 
-A GitLab Repo containing an intentionally vulnerable application is provided for this workshop. [Access it here](https://github.com/tomgonzo/node-goof/).
+A GitHub Repo containing an intentionally vulnerable application is provided for this workshop. [Access it here](https://github.com/tomgonzo/node-goof/).
 
 Click "Fork" to create a copy of this Repo into your GitHub account. 
 
@@ -123,7 +123,7 @@ Find these lines, and insert your GitHub ID where indicated.
 ```yaml
 spec:
   containers:
-  - image: ghcr.io/$gitHubId/node-goof:dev #Edit with your GitLab ID
+  - image: ghcr.io/$gitHubId/node-goof:dev #Edit with your GitHub ID
     name: goof
     imagePullPolicy: Always
 ```
