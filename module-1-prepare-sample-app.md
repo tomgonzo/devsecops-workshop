@@ -4,9 +4,9 @@ The first step in fixing a problem is knowing there's a problem. This first step
 
 ## Step 1: Get the sample app and clone the Repo
 
-A GitHub Repo containing an intentionally vulnerable application is provided for this workshop. [Access it here](https://github.com/tomgonzo/node-goof/).
+A Template GitHub Repo containing an intentionally vulnerable application is provided for this workshop. [Access it here](https://github.com/tomgonzo/node-goof/).
 
-Click "Fork" to create a copy of this Repo into your GitHub account. 
+Click "Use this Template" to create a copy of this Repo into your GitHub account. 
 
 To properly copy-paste the commands in these instructions leave the repo name as `node-goof`. Otherwise, ensure the command uses the correct repo name.
 
